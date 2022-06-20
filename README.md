@@ -1,18 +1,19 @@
 # 16-Games-in-C++
-This repository consists of 16 C++ mini-game @FamTrinli. This repository is created for practicing C++ programming for intermediate.
+This repository consists of 16 C++ mini-game @FamTrinli. This repository is created for practicing C++ programming for intermediate.  
 
-# **01 Tetris**
+We use SFML as the graphic library. Here are the installation steps.
 
 ## 1. Download SFML — Simple and Fast Multimedia Library from website
 [SFML — Simple and Fast Multimedia Library from website](https://www.sfml-dev.org/download.php)
 
 ## 2. Unzip SFML
-unzip SFML-2.x.x-windows-vcxx-64-bit.zip to C:\Program Files\SFML-2.x.x\  
+unzip SFML-2.x.x-windows-vcxx-32-bit.zip to C:\Program Files\SFML-2.x.x\  
 
 ## 3. Include environmental variable
 search sysdm.cpl in Windows 10, choose Advanced.  
 In path, add C:\Program Files\SFML-2.x.x\bin
 
+# **01 Tetris**
 # **02 Doodle Jump**
 # **03 Arkanoid**
 # **04 Snake**
